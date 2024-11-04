@@ -1,32 +1,12 @@
 [
     {
-        "url": "https://github.com",
-        "text": "GitHub",
-        "icon": "fa-brands fa-github"
-    },
-    {
-        "url": "https://medium.com",
-        "text": "Medium",
-        "icon": "fa-brands fa-medium"
-    },
-    {
-        "url": "https://youtube.com",
-        "text": "YouTube",
-        "icon": "fa-brands fa-youtube"
-    },
-    {
-        "url": "https://instagram.com",
-        "text": "Instagram",
-        "icon": "fa-brands fa-instagram"
-    },
-    {
         "url": "https://bsky.app",
         "text": "Bluesky",
         "icon": "fa-brands fa-bluesky fa-sm"
     },
     {
-        "url": "https://github.com/nandolawson/LinkLoom",
-        "text": "😃 Download LinkLoom on GitHub",
-        "icon": ""
+        "url": "https://github.com/nandolawson",
+        "text": "GitHub",
+        "icon": "fa-brands fa-github"
     }
 ]
