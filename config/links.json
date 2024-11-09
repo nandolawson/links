@@ -1,0 +1,11 @@
+[{
+        "url": "https://bsky.app/profile/nandolawson.online",
+        "text": "Bluesky",
+        "icon": "fa-brands fa-bluesky fa-sm"
+    },
+    {
+        "url": "https://github.com/nandolawson",
+        "text": "GitHub",
+        "icon": "fa-brands fa-github"
+    }
+]
